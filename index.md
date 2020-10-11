@@ -1,3 +1,3 @@
-## Harshita Bohra
+# Harshita Bohra
 
-Welcome to my little space on the Internet!
+## Welcome to my little space on the Internet!
