@@ -9,4 +9,4 @@
 - 💬 Ask me about `Mathematics`, `Financial Accounting`, `Dance`, `Cooking`, `Stitching`
 - 📫 How to reach me: 👈 check links on the left
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ![equation](http://www.sciweavers.org/tex2img.php?eq=%20%5Clim_%7Bx%20%5Crightarrow%200%7D%20f%20%5Cbig%28x%5Cbig%29%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0") is not always 0.
+- ⚡ Fun fact: ![equation](assets/images/lim.png) is not always 0.
